@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/d5/93/d9/d593d9b5d4908a2c89b5a8a71eefbe4c.jpg" alt="Xeon" width="170" />
+<img src="https://i.ibb.co/S3q2sYm/1631334611564.png" alt="Xeon" width="170" />
 
 ## SELF-BOT
 
