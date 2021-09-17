@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://i.ibb.co/S3q2sYm/1631334611564.png" alt="Xeon" width="170" />
 
+## 'Deploy'
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Xeon-Self-BOT/)
 ## Xeon-SELF-BOT
 
 </div>
