@@ -26,7 +26,7 @@
 ## Clone Repo & Installation dependencies
 ```bash
 > git clone https://github.com/DGXeon/Xeon-Self-BOT.git
-> cd Self-Bott
+> cd xbot
 > npm install
 > node .
 ```
