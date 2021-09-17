@@ -15,7 +15,7 @@
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
-  <a href="https://heroku.com/deploy?template=https://github.com/DGXeon/Xeon-Self-BOT.git/">
+  <a href="https://heroku.com/deploy?template=https://github.com/DGXeon/Xeon-Self-BOT/">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
   
