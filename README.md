@@ -25,7 +25,7 @@
 # Instalasi
 ## Clone Repo & Instalasi dependencies
 ```bash
-> git clone https://github.com/yogipw/Self-Bot
+> git clone https://github.com/DGXeon/Xeon-Self-BOT.git
 > cd Self-Bott
 > npm install
 > node .
