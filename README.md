@@ -9,7 +9,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=SELF-BOT&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/yogipw"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=SELF-BOT&color=blue"></a>
@@ -22,8 +22,8 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
-# Instalasi
-## Clone Repo & Instalasi dependencies
+# Installation
+## Clone Repo & Installation dependencies
 ```bash
 > git clone https://github.com/DGXeon/Xeon-Self-BOT.git
 > cd Self-Bott
@@ -36,9 +36,8 @@
 > pkg install nodejs
 > pkg install git
 > pkg install bash
-> termux-setup-storage
-> cd /sdcard (y)
-> cp -r xeonbot $HOME
+> git clone https://github.com/DGXeon/Xeon-Self-BOT.git
+> cd xbot
 > bash install.sh
 > npm install
 > node .
